@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktotoro=self.webpackChunktotoro||[]).push([[2224],{1976:(e,r,s)=>{s.r(r),s.d(r,{default:()=>c});s(6540);var t=s(781),n=s(4848);function c(){return(0,n.jsxs)(t.A,{children:[(0,n.jsx)("h1",{children:"\u5927\u6050\u9f99"}),(0,n.jsx)("p",{children:"\u5c0f\u6050\u9f99"})]})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktotoro=self.webpackChunktotoro||[]).push([[5232],{1761:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/greetings","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

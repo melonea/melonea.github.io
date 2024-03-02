@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://melonea.github.io/blog</id>
+    <title>My Site Blog</title>
+    <updated>2024-03-02T13:58:47.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://melonea.github.io/blog"/>
+    <subtitle>My Site Blog</subtitle>
+    <icon>https://melonea.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[进程管理]]></title>
+        <id>https://melonea.github.io/blog/操作系统</id>
+        <link href="https://melonea.github.io/blog/操作系统"/>
+        <updated>2024-03-02T13:58:47.000Z</updated>
+        <summary type="html"><![CDATA[阿发撒发 法法师]]></summary>
+        <content type="html"><![CDATA[<h1>内存管理</h1>
+<h1>文件管理</h1>
+<h1>IO管理</h1>
+<blockquote>
+<p>阿发撒发 法法师</p>
+<p>是的撒</p>
+<p>阿打算</p>
+<p><code>阿法发顺丰</code></p>
+<p><code>阿发反搜反afasfafewfaoxnvzovz</code></p>
+<p><code>我是一个粉刷匠</code></p>
+<p>== 法发顺丰 ==</p>
+<p><strong>发送方</strong></p>
+</blockquote>
+<hr>
+<ul>
+<li>阿发</li>
+</ul>
+<ol>
+<li></li>
+<li>阿发</li>
+</ol>
+<p>==阿发==</p>
+<h1>阿发</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="发发">发发<a href="https://melonea.github.io/blog/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F#%E5%8F%91%E5%8F%91" class="hash-link" aria-label="Direct link to 发发" title="Direct link to 发发">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="发发-1">发发<a href="https://melonea.github.io/blog/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F#%E5%8F%91%E5%8F%91-1" class="hash-link" aria-label="Direct link to 发发" title="Direct link to 发发">​</a></h3>
+<p><em>不定期</em></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="发发-2">发发<a href="https://melonea.github.io/blog/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F#%E5%8F%91%E5%8F%91-2" class="hash-link" aria-label="Direct link to 发发" title="Direct link to 发发">​</a></h4>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="发发-3">发发<a href="https://melonea.github.io/blog/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F#%E5%8F%91%E5%8F%91-3" class="hash-link" aria-label="Direct link to 发发" title="Direct link to 发发">​</a></h5>
+<h6 class="anchor anchorWithStickyNavbar_LWe7" id="发发-4">发发<a href="https://melonea.github.io/blog/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F#%E5%8F%91%E5%8F%91-4" class="hash-link" aria-label="Direct link to 发发" title="Direct link to 发发">​</a></h6>
+<p><em>表示访问</em></p>
+<hr>
+<div class="language-java codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-java codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">public static</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<pre tabindex="0" class="codeBlockStandalone_MEMb thin-scrollbar language-java codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"></code></pre>
+<p><em>啊发发发</em></p>
+<ul>
+<li>
+<ul>
+<li>啊发发</li>
+<li>啊发发</li>
+</ul>
+</li>
+<li>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+<p><code>书代发</code></p>
+<p><strong>aag阿发</strong></p>
+<hr>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行级锁的加锁规则]]></title>
+        <id>https://melonea.github.io/blog/行级锁加锁规则</id>
+        <link href="https://melonea.github.io/blog/行级锁加锁规则"/>
+        <updated>2024-03-02T13:58:47.000Z</updated>
+        <summary type="html"><![CDATA[行级锁加锁的对象是索引，加锁的基本单位是临键锁]]></summary>
+        <content type="html"><![CDATA[<div class="language-sql codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-sql codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">//加共享锁</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">select</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">.</span><span class="token punctuation" style="color:#393A34">.</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">lock</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">in</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">share</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">mode</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">//加排他锁</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">select</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">.</span><span class="token punctuation" style="color:#393A34">.</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">for</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">update</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">insert</span><span class="token plain">、</span><span class="token keyword" style="color:#00009f">update</span><span class="token plain">、</span><span class="token keyword" style="color:#00009f">delete</span><span class="token plain">语句</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>行级锁加锁的对象是索引，加锁的基本单位是临键锁</p>
+<blockquote>
+<p>临键锁在一些场景下会退化成记录锁或间隙锁：</p>
+<p>即在能使用记录锁或间隙锁就能解决幻读问题的场景下</p>
+</blockquote>
+<blockquote>
+<p>如果使用二级索引查询，除了会对二级索引项加行级锁，还会对满足查询条件的记录的主键索引加<strong>记录锁</strong></p>
+</blockquote>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="唯一索引等值查询">唯一索引等值查询<a href="https://melonea.github.io/blog/%E8%A1%8C%E7%BA%A7%E9%94%81%E5%8A%A0%E9%94%81%E8%A7%84%E5%88%99#%E5%94%AF%E4%B8%80%E7%B4%A2%E5%BC%95%E7%AD%89%E5%80%BC%E6%9F%A5%E8%AF%A2" class="hash-link" aria-label="Direct link to 唯一索引等值查询" title="Direct link to 唯一索引等值查询">​</a></h5>
+<p>在使用唯一索引进行等值查询时：</p>
+<ul>
+<li>当查询的记录存在，在索引树上定位到这一条记录后，该记录的索引中的临键锁会退化为<strong>记录锁</strong></li>
+<li>当查询的记录不存在，在索引树找到第一条大于该查询记录的记录，将该记录的索引中的临键锁退化为<strong>间隙锁</strong></li>
+</ul>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="唯一索引范围查询">唯一索引范围查询<a href="https://melonea.github.io/blog/%E8%A1%8C%E7%BA%A7%E9%94%81%E5%8A%A0%E9%94%81%E8%A7%84%E5%88%99#%E5%94%AF%E4%B8%80%E7%B4%A2%E5%BC%95%E8%8C%83%E5%9B%B4%E6%9F%A5%E8%AF%A2" class="hash-link" aria-label="Direct link to 唯一索引范围查询" title="Direct link to 唯一索引范围查询">​</a></h5>
+<p>对每一个扫描到的索引加临键锁，如果遇到下面的情况，临键锁退化成记录锁或间隙锁（按照索引从小到大扫描）</p>
+<ul>
+<li>
+<p>对于大于等于条件的范围查询，如果等值条件查询的记录存在于表中，该记录的索引中的临键锁会退化为<strong>记录锁</strong></p>
+</li>
+<li>
+<p>对于小于或小于等于条件的范围查询</p>
+<ul>
+<li>
+<p>如果条件值不存在，那么扫描到终止范围查询的记录时，该记录的索引中的临键锁会退化成<strong>间隙锁</strong>，其他记录仍然加<strong>临键锁</strong></p>
+</li>
+<li>
+<p>如果条件值存在</p>
+<ul>
+<li>如果是小于条件的范围查询，扫描到终止范围查询的记录时，该记录的索引中的临键锁会退化成<strong>间隙锁</strong>，其他记录仍然加<strong>临键锁</strong></li>
+<li>如果是小于等于条件的范围查询，扫描到的所有记录都加<strong>临键锁</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>在进行范围查询时，如果条件为大于等于，那么会有一个特殊的标记<code>supremum pseudo-record</code>标识最后一条记录，代表正无穷，在加锁时会加一个范围是 (x，正无穷] 的<strong>临键锁</strong>（x为最大索引记录）</p>
+</blockquote>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="非唯一索引等值查询">非唯一索引等值查询<a href="https://melonea.github.io/blog/%E8%A1%8C%E7%BA%A7%E9%94%81%E5%8A%A0%E9%94%81%E8%A7%84%E5%88%99#%E9%9D%9E%E5%94%AF%E4%B8%80%E7%B4%A2%E5%BC%95%E7%AD%89%E5%80%BC%E6%9F%A5%E8%AF%A2" class="hash-link" aria-label="Direct link to 非唯一索引等值查询" title="Direct link to 非唯一索引等值查询">​</a></h5>
+<p>使用非唯一索引进行等值查询时：</p>
+<ul>
+<li>当查询的记录存在，会对索引进行扫描，直到扫描到第一个不符合条件的二级索引就停止，对扫描到的二级索引记录加<strong>临键锁</strong>，对第一个不符合条件的二级索引记录，该二级索引的临键锁会退化成<strong>间隙锁</strong>，在符合查询条件的记录的主键索引上加<strong>记录锁</strong></li>
+<li>当查询的记录不存在时，扫描到第一条不符合条件的二级索引记录，该二级索引的临键锁会退化成<strong>间隙锁</strong>。因为不存在满足条件的记录，不会对主键索引加锁</li>
+</ul>
+<blockquote>
+<p>二级索引树是按照二级索引值顺序存放，二级索引值相同的情况下，再按照主键索引值顺序存放</p>
+<p>在二级索引加了临键锁或间隙锁后，对于边界能否插入数据，要结合边界的二级索引值和主键索引值来分析</p>
+<ul>
+<li>如果插入位置没有锁，可以插入成功</li>
+<li>如果插入位置有锁，则插入阻塞</li>
+</ul>
+</blockquote>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="非唯一索引范围查询">非唯一索引范围查询<a href="https://melonea.github.io/blog/%E8%A1%8C%E7%BA%A7%E9%94%81%E5%8A%A0%E9%94%81%E8%A7%84%E5%88%99#%E9%9D%9E%E5%94%AF%E4%B8%80%E7%B4%A2%E5%BC%95%E8%8C%83%E5%9B%B4%E6%9F%A5%E8%AF%A2" class="hash-link" aria-label="Direct link to 非唯一索引范围查询" title="Direct link to 非唯一索引范围查询">​</a></h5>
+<p>非唯一索引范围查询和唯一索引范围查询一样，但是非唯一索引范围查询<strong>临键锁不会发生退化</strong>，同时对满足查询条件的记录的主键索引加<strong>记录锁</strong></p>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="没有加索引的查询">没有加索引的查询<a href="https://melonea.github.io/blog/%E8%A1%8C%E7%BA%A7%E9%94%81%E5%8A%A0%E9%94%81%E8%A7%84%E5%88%99#%E6%B2%A1%E6%9C%89%E5%8A%A0%E7%B4%A2%E5%BC%95%E7%9A%84%E6%9F%A5%E8%AF%A2" class="hash-link" aria-label="Direct link to 没有加索�引的查询" title="Direct link to 没有加索引的查询">​</a></h5>
+<p>如果查询没有走索引，会导致全表扫描，扫描到的每一条记录的索引都会加上<strong>临键锁</strong>，相当于锁住了全表，会阻塞其他事务对该表的操作</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://melonea.github.io/blog/welcome</id>
+        <link href="https://melonea.github.io/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
+<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
+<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
+<p>The blog post date can be extracted from filenames, such as:</p>
+<ul>
+<li><code>2019-05-30-welcome.md</code></li>
+<li><code>2019-05-30-welcome/index.md</code></li>
+</ul>
+<p>A blog post folder can be convenient to co-locate blog post images:</p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://melonea.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p>The blog supports tags as well!</p>
+<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+        <category label="facebook" term="facebook"/>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDX Blog Post]]></title>
+        <id>https://melonea.github.io/blog/mdx-blog-post</id>
+        <link href="https://melonea.github.io/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
+        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p><div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><button>Click me!</button></div></div>]]></content>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小白马!]]></title>
+        <id>https://melonea.github.io/blog/greetings</id>
+        <link href="https://melonea.github.io/blog/greetings"/>
+        <updated>2021-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小白马]]></summary>
+        <content type="html"><![CDATA[<p>小白马</p>]]></content>
+        <author>
+            <name>Joel Marcey</name>
+            <uri>https://github.com/JoelMarcey</uri>
+        </author>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <category label="greetings" term="greetings"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <id>https://melonea.github.io/blog/long-blog-post</id>
+        <link href="https://melonea.github.io/blog/long-blog-post"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
+        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
+<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Endilie Yacop Sucipto</name>
+            <uri>https://github.com/endiliey</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://melonea.github.io/blog/first-blog-post</id>
+        <link href="https://melonea.github.io/blog/first-blog-post"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Gao Wei</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
